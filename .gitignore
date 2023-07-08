@@ -1,1 +1,7 @@
 /target
+my_user_database.db
+my_user_database.db-shm
+my_user_database.db-wal
+
+.env
+.db
