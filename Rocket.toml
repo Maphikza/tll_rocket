@@ -1,0 +1,3 @@
+[default.databases.diesel]
+url = "my_user_database.db"
+timeout = 10
